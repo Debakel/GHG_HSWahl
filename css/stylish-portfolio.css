@@ -4,7 +4,7 @@ html,
 body {
   height: 100%;
   width: 100%;
-  color: #222;
+  color: #333;
 }
 
 a {
@@ -15,6 +15,8 @@ a:hover {
   color: #6FCA6B;
   -webkit-transition: linear 0.2s; /* For Safari 3.1 to 6.0 */
   transition: linear 0.2s;
+  text-decoration: none;
+  border-bottom: 1px solid #6FCA6B;
 }
 
 .vert-text {
@@ -37,6 +39,41 @@ a:hover {
 }
 .vert-text h3 {
   color: white;
+}
+
+/* Carousel */
+
+body{padding-top:20px;}
+.carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+}
+/* The controlsy */
+.carousel-control {
+  left: -12px;
+    height: 40px;
+  width: 40px;
+    background: none repeat scroll 0 0 #222222;
+    border: 4px solid #FFFFFF;
+    border-radius: 23px 23px 23px 23px;
+    margin-top: 90px;
+}
+.carousel-control.right {
+  right: -12px;
+}
+/* The indicators */
+.carousel-indicators {
+  right: 50%;
+  top: auto;
+  bottom: -10px;
+  margin-right: -19px;
+}
+/* The colour of the indicators */
+.carousel-indicators li {
+  background: #cecece;
+}
+.carousel-indicators .active {
+background: #428bca;
 }
 
 /* ADDED */
@@ -75,8 +112,8 @@ a:hover {
 
 .btn-primary {
   color: #ffffff;
-  background-color: #ddd;
-  border-color: #ddd;
+  background-color: #D3D7D8;
+  border-color: #D3D7D8;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -84,8 +121,8 @@ a:hover {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
   color: #ffffff;
-  background-color: #eee;
-  border-color: #eee;
+  background-color: #ECF0F1;
+  border-color: #ECF0F1;
 }
 
 /* Side Menu */
@@ -223,7 +260,6 @@ i.goals-icon {
 .member {
   background: #fff;
   padding: 50px 0;
-  color: #222;
 }
 
 .member-item {
@@ -234,8 +270,8 @@ i.goals-icon {
 
 .member-item h5 {
   -webkit-hyphens: auto;
-   -moz-hyphens: auto;
-        hyphens: auto;
+   -moz-hyphens:  auto;
+        hyphens:   auto;
 }
 
 img.member-portrait {
