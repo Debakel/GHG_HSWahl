@@ -324,6 +324,10 @@ i.member-icon {
 
 /* Footer */
 
+.links-bottom {
+  margin-top: 40px;
+}
+
 .links-bottom ul.list-inline li a {
   color: #333;
 }
