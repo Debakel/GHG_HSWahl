@@ -4,6 +4,17 @@ html,
 body {
   height: 100%;
   width: 100%;
+  color: #222;
+}
+
+a {
+  color: #62BD5E;
+}
+
+a:hover {
+  color: #6FCA6B;
+  -webkit-transition: linear 0.2s; /* For Safari 3.1 to 6.0 */
+  transition: linear 0.2s;
 }
 
 .vert-text {
@@ -22,7 +33,7 @@ body {
 }
 
 .vert-text h1 span.green {
-  color: #64A74F;
+  color: #62BD5E;
 }
 .vert-text h3 {
   color: white;
@@ -42,6 +53,40 @@ body {
   margin-bottom: 0;
 }
 
+/* Buttons */
+
+.btn-default {
+  color: #ffffff;
+  background-color: #55B051;
+  border-color: #55B051;
+}
+.btn-default:hover,
+.btn-default:focus,
+.btn-default:active,
+.btn-default.active,
+.open .dropdown-toggle.btn-default {
+  color: #ffffff;
+  background-color: #62BD5E;
+  border-color: #62BD5E;
+  -webkit-transition: linear 0.2s; /* For Safari 3.1 to 6.0 */
+  transition: linear 0.2s;
+}
+
+
+.btn-primary {
+  color: #ffffff;
+  background-color: #ddd;
+  border-color: #ddd;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.open .dropdown-toggle.btn-primary {
+  color: #ffffff;
+  background-color: #eee;
+  border-color: #eee;
+}
 
 /* Side Menu */
 
@@ -49,7 +94,7 @@ body {
   margin-right: -250px;
   right: 0;
   width: 250px;
-  background: #000;
+  background: #222;
   position: fixed;
   height: 100%;
   overflow-y: auto;
@@ -93,8 +138,8 @@ body {
 }
 
 .sidebar-nav > .sidebar-brand {
-  height: 55px;
-  line-height: 55px;
+  height: 75px;
+  line-height: 75px;
   font-size: 18px;
 }
 
@@ -151,7 +196,7 @@ body {
 /* Goals */
 
 .goals {
-  background: #64A74F;
+  background: #62BD5E;
   padding: 50px 0;
   color: #ffffff;
 }
@@ -325,3 +370,4 @@ i.scroll:hover {
   }
 
 }
+
