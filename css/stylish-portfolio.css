@@ -337,6 +337,7 @@ i.member-icon {
 .links-bottom ul.list-inline li a:hover {
   text-decoration: none;
   color: #666;
+  border:none;
 }
 
 footer {
