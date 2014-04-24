@@ -126,6 +126,7 @@ a:hover {
   color: #999999;
   display: block;
   text-decoration: none;
+  border: none;
 }
 
 .sidebar-nav li a:hover {
