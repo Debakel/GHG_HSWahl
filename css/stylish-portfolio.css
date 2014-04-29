@@ -23,7 +23,7 @@ a:hover {
   display: table-cell;
   vertical-align: middle;
   text-align: center;
-
+  text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.35);
 }
 
 .vert-text h1 {
@@ -44,15 +44,30 @@ a:hover {
 /* ADDED */
 
 .goal {
-  margin-bottom: 40px;
 }
 
 .goal h1 {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .goal:last-child {
   margin-bottom: 0;
+}
+
+p.glyphter-left {
+  font-family: 'Glyphter';
+  font-size: 8em;
+  line-height: 1em;
+  padding: 0 20px 20px 0;
+  float: left;
+}
+
+p.glyphter-right {
+  font-family: 'Glyphter';
+  font-size: 8em;
+  line-height: 1em;
+  padding: 0 0 20px 20px;
+  float: right;
 }
 
 /* Buttons */
@@ -194,6 +209,8 @@ a:hover {
 
 .intro {
   padding: 50px 0;
+  background: #62BD5E;
+  color: #fff;
 }
 
 /* Goals */
@@ -220,7 +237,11 @@ i.goals-icon {
   text-align: center;
   margin-bottom: 1px;
 }
-
+/* us */
+.us {
+  background: #fff;
+  padding: 50px 0;
+}
 /* member */
 
 .member {
@@ -264,6 +285,87 @@ img.member-otto {
   background: url(../img/member/otto.jpg) no-repeat center center;
   background-size: 100%;
 }
+
+img.member-kock {
+  background: url(../img/member/kock.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-petersen {
+  background: url(../img/member/petersen.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-hamman {
+  background: url(../img/member/hamman.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-baier {
+  background: url(../img/member/baier.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-grummt {
+  background: url(../img/member/grummt.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-genschorek {
+  background: url(../img/member/genschorek.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-hoffmann {
+  background: url(../img/member/hoffmann.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-poeckelmann {
+  background: url(../img/member/poeckelmann.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-stobbe {
+  background: url(../img/member/stobbe.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-luedecke {
+  background: url(../img/member/luedecke.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-boehm {
+  background: url(../img/member/boehm.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-ramstorf {
+  background: url(../img/member/ramstorf.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-malek {
+  background: url(../img/member/malek.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-bystron {
+  background: url(../img/member/bystron.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-eisenbrandt {
+  background: url(../img/member/eisenbrandt.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
+img.member-gallon {
+  background: url(../img/member/gallon.jpg) no-repeat center center;
+  background-size: 100%;
+}
+
 
 i.member-icon {
   border: 3px solid #222;
