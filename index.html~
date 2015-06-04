@@ -1,0 +1,446 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Die Uni Augsburg wird Grün! | Hochschulwahlen am 9. und 10. Juni</title>
+    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" /> 
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Add custom CSS here -->
+    <link href="css/stylish-portfolio.css" rel="stylesheet">
+    <link href="css/Glyphter.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- Side Menu -->
+    <a id="menu-toggle" href="#" class="btn btn-primary btn-lg toggle"><i class="fa fa-bars"></i></a>
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <a id="menu-close" href="#" class="btn btn-default btn-lg pull-right toggle"><i class="fa fa-times"></i></a>
+            <li class="sidebar-brand">
+            </li>
+            <li><a href="#top">Start</a>
+            </li>
+            <li><a href="#about">Ein Webflyer?</a>
+            </li>            
+            <li><a href="#us">Wer sind wir?</a>
+            </li>
+            <li><a href="#goals">Unsere Ziele</a>
+            </li>
+            <li><a href="#member">Unsere Kandidat*innen</a>
+            </li>
+            <li><a href="#program">Unser Wahlprogramm</a>
+            </li>
+        </ul>
+    </div>
+    <!-- /Side Menu -->
+   <!-- Full Page Image Header Area -->
+
+   <div id="top" class="header">
+        <div class="vert-text">
+            <h1>Die Uni Augsburg wählt <span class="green">Grün</span>!</h1>
+            <h3>Am <em>9. und 10. Juni</em> ist Hochschulwahl! Hier siehst du unseren Webflyer.</h3>
+            <a href="#us" class="btn btn-default btn-lg">Schau rein!</a>
+        </div>
+    </div>
+
+ <!-- /Full Page Image Header Area -->
+
+
+    <!-- Intro 
+    <div id="about" class="intro">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <h2>Informiere dich über unsere Ziele und lerne unsere Kandidat*innen kennen!</h2>
+                   
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Intro -->
+
+    <!-- Intro -->
+    <div id="us" class="us">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4 text-center">
+                    <h2>Wer sind wir?</h2>
+                    <hr>
+                </div>
+                <div class="col-md-8 col-md-offset-2 text-center lead">
+ <p class="lead">Die <i>GRÜNE Hochschulgruppe (GHG)</i> ist ein offenes Bündnis motivierter Menschen. Wir möchten gemeinsam mit allen Studierenden eine inklusive, weltoffene, nachhaltige, antidiskriminierende und geschlechtergerechte Hochschule schaffen. </p>
+<!--<p>Seit 2003 bringen wir „grüne“ Ideen in die Universität ein. Inhaltlich stehen wir der Partei BÜNDNIS 90/DIE GRÜNEN nahe. Wir arbeiten jedoch selbstständig und unabhängig in den verschiedenen Gremien und an unseren eigenen Projekten.</p>-->
+                </div>
+</div>
+            </div>
+        </div>
+    </div>
+    <!-- /Intro -->
+
+    <!-- Goals -->
+    <div id="goals" class="goals">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4 text-center">
+                    <h2>Unsere Ziele</h2>
+                    <hr>
+                </div>
+            </div>
+ <div class="row goal">
+                <div class="col-md-10 col-md-offset-1">
+                     <h1>Für ein freies Studium !</h1>
+                        <p class="glyphter-left">D</p>
+                        <article><p>
+                        Seit einem Jahr protestieren wir gegen Anwesenheitspflichten. Sie widersprechen unserer Vorstellung von einem selbstbestimmten und freien Studium. Denn so wird uns nicht nur vorgeschrieben was wir lernen sollen, uns wird zudem
+ vorgeschrieben, wie wir es lernen – mit welcher Intensität und mit welcher Methode. Wir wollen aber selbst entscheiden, welche Themen uns wichtig sind und ob wir im Seminar lernen oder die Inhalte selbst erarbeiten. Wir fordern alle Dozierenden auf, sich endlich an die bestehenden Regelungen zu halten, die Anwesenheitszwänge nicht zulassen.
+                         </p>
+                     </article>
+                 </div>
+            </div>
+         
+ <div class="row goal">
+               
+  <div class="col-md-10 col-md-offset-1 text-right">
+                     <h1>Bike-Sharing ins Semesterticket !</h1>
+                        <img class="right" src="img/Bike.png"/>
+                        <article><p>
+                        Wir setzen uns für eine Erweiterung des Semestertickets ein, sodass auch das Bike-Sharing von <i>nextbike</i> genutzt werden kann. Das bestehende Netzwerk soll studierendenfreundlich ausgebaut werden. 
+                         </p>
+                     </article>
+                 </div>
+            </div>
+            <div class="row goal">
+                <div class="col-md-10 col-md-offset-1">
+                     <h1>Für eine größere und vegetarisch-vegane Auswahl in den Mensen!</h1>
+                        <p class="glyphter-left">B</p>
+                        <article><p>
+                         Die <i>GHG</i> unterstützt die « Vegane Hochschulgruppe » und fordert, das Vegetarier*innen und Veganer*innen bei der Essensversorgung durch die Mensen stärker berücksichtigt werden, sodass alle eine echte Wahlfreiheit haben. Das fleischfreie und vegane Angebot sollte dabei ausgeweitet sowie die Kennzeichnung von Gerichten verbessert werden. Außerdem sollten auch Pflanzenmilch und vegan belegte Brötchen angeboten werden. 
+                         </p>
+                     </article>
+                 </div>
+            </div>
+            <div class="row goal">
+                <div class="col-md-10 col-md-offset-1 text-right">
+                     <h1>E-Learning für Studierende – Flexibilität schaffen, Barrieren abbauen!</h1>
+                        <p class="glyphter-right">H</p>
+                        <article><p>
+                         E-Learning ist eine einfache und effiziente Maßnahme, um das Studium zu flexibilisieren, Barrieren abzubauen und benachteiligte Gruppen wie etwa chronisch Kranke oder Studierende mit Kindern leichter einzubinden. Daher fordert die <i>GHG</i> eine Ausweitung der E-Learning-Angebote.
+                         </p>
+                     </article>
+                 </div>
+            </div>
+ <div class="col-md-10 col-md-offset-1 text-left">
+                     <h1>Für einen GRÜNEN Campus!</h1>
+                        <img class="left" src="img/Tree.png"/>
+                        <article><p>
+                       Der Sinn von einem ruhigen Ort, der von schönen Bäumen, Blumen und Gewässern umgeben ist, liegt auf der Hand. Es soll zum wohlfühlen, entspannen und Seele baumeln lassen einladen. So kann man vielleicht für ein paar Minuten oder auch Stunden, alleine oder mit Freunden mal den Unialltag hinter sich lassen. Statt mehr Parkplätze, wollen wir den grünen Campus erhalten ! Wir setzen uns außerdem ein für  einen Uni-Garten mit Gemüse/Obst zur Selbstversorgung.
+                         </p>
+                     </article>
+                 </div>
+            </div>
+           
+                <div class="col-md-10 col-md-offset-1 text-right">
+                     <h1>Keine Kürzungen im Etat der Universitätsbibliothek!</h1>
+                        <p class="glyphter-right">C</p>
+                        <article><p>
+                         Die <i>GHG</i> fordert den Erhalt der aktuellen Öffnungszeiten und des Präsenzbestandes der Bibliotheken und lehnt Kürzungen nach der Rasenmähermethode ab. Stattdessen sollte das Onlineangebot von E-Books ausgeweitet werden, um die Studienqualität weiter zu verbessern. 
+                         </p>
+                     </article>
+                 </div>
+            
+<div class="row goal">
+              
+   <div class="row goal">
+                <div class="col-md-10 col-md-offset-1">
+                     <h1>Hochschulautonomie statt Drittmittelabhängigkeit!</h1>
+                        <p class="glyphter-left">D</p>
+                        <article><p>
+                        Universitäten sollen unabhängig und frei forschen können. Die <i>GHG</i> fordert daher eine Vollfinanzierung der Universitäten durch den Staat. Die derzeitige Abhängigkeit von Drittmitteln führt zu einer ausufernden Einflussnahme der Wirtschaft, sodass plötzlich Unternehmen über Forschungsschwerpunkte mitentscheiden können. Wir fordern die Universitätsleitung auf, der Landesregierung gegenüber selbstbewusst und bestimmt für eine ausreichende Finanzierung aufzutreten.
+                         </p>
+                     </article>
+                 </div>
+            </div>
+            <div class="row goal">
+                <div class="col-md-10 col-md-offset-1 text-right">
+                     <h1>Für mehr Energiebewusstsein!</h1>
+                        <p class="glyphter-right">I</p>
+                        <article><p>
+                         Die Energiekosten stellen den zweitgrößten Kostenpunkt der Uni dar. Aus ökonomischer und ökologischer Sicht ist ein verantwortungsvoller Umgang mit eben jenen zwingend notwendig. Daher fordert die <i>GHG</i>, alle nicht benötigten Lichter auszuschalten, insbesondere nachts. Außerdem sollte die Universitätsverwaltung für ein besseres Energiebewusstsein werben.
+                         </p>
+                     </article>
+                 </div>
+            </div>
+    
+
+            <div class="row goal">
+                <div class="col-md-10 col-md-offset-1 text-left">
+                     <h1>Mehr Datenschutz an der Universität!</h1>
+                        <p class="glyphter-left">E</p>
+                        <article><p>
+                         Eine Hochschule darf kein datenschutzfreier Raum sein. Die <i>GHG</i> fordert, dass auch in Zukunft bei Krankschreibungen keine Informationen über die Art der Krankheit herausgegeben werden müssen, wie es in anderen deutschen Hochschulen schon Pflicht ist. Außerdem wollen wir eine Wiederbelebung des Postens des Datenschutzbeauftragten, dessen Rolle im Universitätsalltag im Moment kaum wahrnehmbar ist.
+                         </p>
+                     </article>
+                 </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Goals -->
+
+    
+
+    <!-- Callout -->
+    <div class="callout">
+        <div class="vert-text">
+            <h1>Die beste Methode, eine gute Idee zu bekommen, ist, viele Ideen zu haben!</h1>
+            <h3>Linus C. Pauling, Chemiker und Friedensaktivist</h3>
+        </div>
+    </div>
+    <!-- /Callout -->
+
+    <!-- Member -->
+    <div id="member" class="member">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-md-offset-4 text-center">
+                    <h2>Unsere Kandidat*innen</h2>
+                    <hr>
+                </div>
+            </div>
+
+    <!-- REIHE 1 -->
+        <div class="row">  
+        <div class="col-md-4 col-md-offset-0 text-center">
+                    <div class="member-item">
+                    <div class="panel panel-default">
+                        <div class="panel-body"><img class="member-portrait member-franzi"></img></div>
+
+                        <div class="panel-footer">
+                        <h4>Franziska Kress</h4>
+                        <h5>Umweltethik (KTHF)</h5>
+                        <h6>Senat, StuRa & Fakultätsrat Philosophische Fakultät I</h6>
+                        </div>
+
+                        <div class="panel-body">
+                        Ein bewusster Umgang mit Ressourcen ist für mich der Kern umweltfreundlichen Handelns.
+                        Dazu gehört neben Energiesparmaßnahmen auch die regelmäßige Wartung und Reparatur
+                        des vorhandenen Inventars.
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <!-- *** -->
+                <div class="col-md-4 col-md-offset-0 text-center">
+                    <div class="member-item">
+                    <div class="panel panel-default">
+                        <div class="panel-body"><img class="member-portrait member-moritz"></img></div>
+
+                        <div class="panel-footer">
+                        <h4>Moritz Duchêne</h4>
+                        <h5>Informatik & Geographie (FAI)</h5>
+                        <h6>Senat</h6>
+                        </div>
+
+                        <div class="panel-body">
+                        Ein wichtiges Thema ist für mich – neben dem Institutserhalt – eine bessere Auswahl in unseren Mensen. Oft gibt es nur ein vegetarisches Gericht! Da geht mehr!
+                        </div>
+                    </div>
+                    </div>
+                </div>
+                <!-- *** -->
+
+                <div class="col-md-4 col-md-offset-0 text-center">
+                    <div class="member-item">
+                    <div class="panel panel-default">
+                        <div class="panel-body"><img class="member-portrait member-kock"></img></div>
+
+                        <div class="panel-footer">
+                        <h4>Jelena Büchner</h4>
+                        <h5>Phil.-Soz.</h5>
+                        <h6>Senat, StuRa & Fakultätsrat Philosophische Fakultät I</h6>
+                        </div>
+
+                        <div class="panel-body">
+                        Ich stehe für eine grüne und nachhaltige Hochschulpolitik - angefangen bei einer echten Menüauswahl in den Mensen bishin zu einem verantwortungsvollen Umgang mit Ressourcen.
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+
+    <!-- REIHE 2 -->
+            <div class="row">
+
+                <div class="col-md-4 col-md-offset-0 text-center">
+                    <div class="member-item">
+                    <div class="panel panel-default">
+                        <div class="panel-body"><img class="member-portrait member-laurin"></img></div>
+
+                        <div class="panel-footer">
+                        <h4>Laurin Pfau</h4>
+                        <h5>Philosophie (Phil.-Soz.)</h5>
+                        <h6>Senat (Wissenschaftlicher Mitarbeiter)</h6>
+                        </div>
+
+                        <div class="panel-body">
+                        Für den Erhalt aller bestehenden Institute, des Studienkollegs, der Anzahl der Studienplätze und der Qualität in Lehre und Forschung an der!
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            <div class="col-md-4 col-md-offset-0 text-center">
+                    <div class="member-item">
+                    <div class="panel panel-default">
+                        <div class="panel-body"><img class="member-portrait member-eva"></img></div>
+
+                        <div class="panel-footer">
+                      <h4>Eva Lettenbauer</h4>
+                        <h5>Wirtschaftsingeninieur (MNTF)</h5>
+                       
+                        </div>
+
+                        <div class="panel-body">
+                        Meine Schwerpunkte? Mehr Energiebewusstsein und die Verwendung von Recyclingpapier!
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+
+
+
+                <div class="col-md-4 col-md-offset-0 text-center">
+                    <div class="member-item">
+                    <div class="panel panel-default">
+                        <div class="panel-body"><img class="member-portrait member-grummt"></img></div>
+
+                        <div class="panel-footer">
+                       <h3>Julian Würzer</h3>
+                        <h4>Wirtschaftswissenschaften</h4>
+                        <h6>Senat (Wissenschaftlicher Mitarbeiter)</h6>
+                        </div>
+
+                        <div class="panel-body">
+                        Ein wichtiges Thema ist für mich – neben dem Institutserhalt – eine bessere Auswahl in unseren Mensen. Oft gibt es nur ein vegetarisches Gericht! Da geht mehr!
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div> 
+
+
+</div>
+    <!-- /Member -->
+
+    <!-- Call to Action -->
+    <div id="program" div class="call-to-action program">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <h3>Noch nicht genug? Hier könnt ihr euch unser Wahlprogramm herunterladen!</h3>
+                    <a href="Programm_GHG_2014.pdf" class="btn btn-lg btn-default">Wahlprogramm 2014</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /Call to Action -->
+
+    <!-- Map -->
+<!--     <div id="contact" class="map">
+        <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+        <br />
+        <small>
+            <a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a>
+        </small>
+        </iframe>
+    </div> -->
+    <!-- /Map -->
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <h3>Wenn du mehr wissen oder mit uns in Kontakt treten willst, dann schau auf unserer <a href="https://facebook.com/GHG.Augsburg">Facebook-Seite</a> vorbei oder schreib uns an <a href="mailto:kontakt@gj-augsburg.de">kontakt@gj-augsburg.de</a></h3>
+                </div>
+            </div>
+            <div class="row links-bottom">
+                <div class="col-md-6 col-md-offset-3 text-center">
+                    <ul class="list-inline">
+                        <li><a href="https://facebook.com/GHG.Augsburg"><i class="fa fa-facebook fa-3x"></i></a>
+                        </li>
+                        <li><a href="http://www.ghg-augsburg.de/"<i class="fa fa-globe fa-3x"></i></a>
+                        </li>
+                    </ul>
+                    <div class="top-scroll">
+                        <a href="#top"><i class="fa fa-circle-arrow-up scroll fa-4x"></i></a>
+                    </div>
+                    <hr>
+                    <p>Grüne Hochschulgruppe Augsburg 2015</p>
+                    <p>Gestaltet mit einer Vorlage von <a href="http://www.achimsagner.de">Achim Sagner</a>, angepasst von <a href="https://mrtz.me">Moritz Duchêne</a>.</p>
+                     <p class="small">
+						<strong>Impressum:</strong><br>
+						GRÜNE Hochschulgruppe Augsburg<br>					
+Maximilianstraße 17<br>
+						86150 Augsburg<br>
+						<a href="mailto:kontakt@gj-augsburg.de">kontakt@gj-augsburg.de</a>
+					</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- /Footer -->
+
+    <!-- JavaScript -->
+    <script src="js/jquery-1.10.2.js"></script>
+    <script src="js/bootstrap.js"></script>
+
+    <!-- Custom JavaScript for the Side Menu and Smooth Scrolling -->
+    <script>
+    $("#menu-close").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+    </script>
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#sidebar-wrapper").toggleClass("active");
+    });
+    </script>
+    <script>
+    $(function() {
+        $('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') || location.hostname == this.hostname) {
+
+                var target = $(this.hash);
+                target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+                if (target.length) {
+                    $('html,body').animate({
+                        scrollTop: target.offset().top
+                    }, 1000);
+                    return false;
+                }
+            }
+        });
+    });
+    </script>
+
+    <script>
+    $(document).ready(function() {
+    $('#Carousel').carousel({
+        interval: 10000
+    })
+    });
+    </script>
+
+</body>
+
+</html>
